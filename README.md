@@ -1,6 +1,6 @@
 # HelloReactNative
 
-#SET UP
+#Set Up
 OS X - This guide assumes OS X which is needed for iOS development.
 Homebrew is the recommended way to install Watchman and Flow.
 Install Node.js 4.0 or newer.
